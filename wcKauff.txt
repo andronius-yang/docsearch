@@ -1,0 +1,10 @@
+ 10497 written_2/non-fiction/OUP/Kauffman/ch1.txt
+ 10295 written_2/non-fiction/OUP/Kauffman/ch10.txt
+ 13263 written_2/non-fiction/OUP/Kauffman/ch3.txt
+ 12076 written_2/non-fiction/OUP/Kauffman/ch4.txt
+  4406 written_2/non-fiction/OUP/Kauffman/ch5.txt
+  9922 written_2/non-fiction/OUP/Kauffman/ch6.txt
+  8039 written_2/non-fiction/OUP/Kauffman/ch7.txt
+ 16803 written_2/non-fiction/OUP/Kauffman/ch8.txt
+ 14025 written_2/non-fiction/OUP/Kauffman/ch9.txt
+ 99326 total
